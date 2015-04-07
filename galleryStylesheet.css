@@ -1,0 +1,30 @@
+body {
+  background-image: url("totoro-14357.jpg");
+}
+
+h1 {
+  color: #CF8414;
+  text-align: center;
+  font-family: "Space Comics";
+  -webkit-text-stroke: 1px black;
+}
+
+.images:first-child {
+  padding-left:80px;
+}
+
+.images:nth-child(2) {
+  padding-left: 260px;
+}
+
+.secondRowImages {
+  padding-left: 470px;
+}
+
+.footer a{
+  color: #CF8414;
+  text-align: center;
+  font-family: "Space Comics";
+  text-decoration: none;
+  -webkit-text-stroke: 1px black;
+}
